@@ -5,7 +5,6 @@ I'm a Computer Science student at the **University of Florida** (Class of 2030),
 ### 🚀 What I'm Up To
 - 🔭 I’m currently building **[ClubScheduler](https://github.com/SanjayMohan207/clubscheduler)**, an async Discord bot using Python, SQLite, and the Google Calendar API to automate event tracking.
 - 🌱 I’m currently diving into Engineering Statistics and Discrete Structures.
-- 💼 Background: Former IT Assistant Intern for Broward County Public Schools.
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
