@@ -14,8 +14,8 @@ I'm a Computer Science student at the **University of Florida** (Class of 2030),
 ![GCP](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 ### 📫 Let's Connect
-- **LinkedIn:** [linkedin.com/in/sanjaymohan207](https://linkedin.com/in/sanjaymohan207)[cite: 1]
-- **Email:** SanjayMohan207@gmail.com[cite: 1]
+- **LinkedIn:** [linkedin.com/in/sanjaymohan207](https://linkedin.com/in/sanjaymohan207)
+- **Email:** SanjayMohan207@gmail.com
 
 ---
 <div align="center">
