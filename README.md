@@ -1,6 +1,6 @@
 # Hi there, I'm Sanjay 👋
 
-I'm a Computer Science student at the **University of Florida** (Class of 2030), passionate about software development, cybersecurity, and automation. 
+I'm a Computer Science student at the **University of Florida**, passionate about software development, cybersecurity, and automation. 
 
 ### 🚀 What I'm Up To
 - 🔭 I’m currently building **[ClubScheduler](https://github.com/SanjayMohan207/clubscheduler)**, an async Discord bot using Python, SQLite, and the Google Calendar API to automate event tracking.
