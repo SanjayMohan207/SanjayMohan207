@@ -19,6 +19,5 @@ I'm a Computer Science student at the **University of Florida** (Class of 2030),
 
 ---
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjayMohan207&show_icons=true&theme=radical" alt="Sanjay's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=SanjayMohan207&theme=radical" alt="Sanjay's GitHub Streak" />
 </div>
-
